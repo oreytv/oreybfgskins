@@ -1,0 +1,17 @@
+﻿{
+  "name": "Morgana",
+  "author": "oreytv",
+  "description": "Persona 5 ver.",
+  "file": "costume_p5nmorgana",
+  "type": "costume",
+  "keepBase": false,
+  "skinScale": 0.8,
+  "boneOffsets": [
+    { "bone": "Shoulder_L_jnt", "x": -0.00149363, "y": 0.00155969, "z": 0.000289349 },
+    { "bone": "Elbow_L_jnt", "x": -1.39698E-11, "y": 0.00302573, "z": -8.72284E-10 },
+    { "bone": "Wrist_L_jnt", "x": 1.39698E-11, "y": 0.00239124, "z": -9.19386E-11 },
+    { "bone": "Shoulder_R_jnt1", "x": 0.00155964, "y": 0.00157125, "z": 0.000148246 },
+    { "bone": "Elbow_R_jnt1", "x": -9.31323E-10, "y": -0.00289806, "z": -3.9766E-09 },
+    { "bone": "Wrist_R_jnt1", "x": -9.87202E-10, "y": -0.00229034, "z": 5.00767E-08 }
+  ]
+}
