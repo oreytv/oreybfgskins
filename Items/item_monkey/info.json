@@ -4,7 +4,7 @@
   "description": "describle",
   "file": "item_monkey",
   "type": "item",
-  "scale": 1,
+  "scale": 28.406,
   "left":  { "position": [-0.16213, 0.149177, -0.0160064], "rotation": [353.153, 276.78, 262.992] },
   "right": { "position": [0.277, -0.229, 0.174], "rotation": [1.8553, 96.1667, 96.962] }
 }
