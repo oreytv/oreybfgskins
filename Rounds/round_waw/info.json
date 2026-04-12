@@ -9,5 +9,6 @@
   "fogDensity": "0.002",
   "fogColor": "0.7943218 0.8722274 0.9622642 1",
   "musicBank": "Master.bank",
-  "musicEvent": "event:/iphonesixplus"
+  "musicEvent": "event:/iphonesixplus",
+  "musicStringsBank": "Master.strings.bank"
 }
