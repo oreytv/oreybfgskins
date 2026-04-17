@@ -1,0 +1,14 @@
+﻿{
+  "displayName": "fogtest",
+  "file": "round_fogtest",
+  "prefab": "round_fogtest",
+  "skybox": "New Material 1",
+  "ambientMode": "3",
+  "ambientLight": "0.4541652 0.4887082 0.509434 1",
+  "fog": "false",
+  "fogDensity": "0.01",
+  "fogColor": "0.5 0.5 0.5 1",
+  "musicBank": "",
+  "musicEvent": "",
+  "musicStringsBank": ""
+}
